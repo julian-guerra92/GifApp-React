@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba sobre el GifItem Component Debe de hacer math con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="one punch GIF by Adult Swim"
+      src="https://giphy.com/gifs/adultswim-adult-swim-toonami-l3vRlt8kty8KKeHni"
+    />
+    <p>
+      one punch GIF by Adult Swim
+    </p>
+  </div>
+</div>
+`;
